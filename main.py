@@ -41,7 +41,7 @@ openai_api_key = get_openai_api_key()
 # Input
 st.markdown("## Sube el archivo de texto que quieres resumir")
 
-uploaded_file = st.file_uploader("Choose a file", type="txt")
+uploaded_file = st.file_uploader("Elige tu archivo", type="txt")
 
        
 # Output
