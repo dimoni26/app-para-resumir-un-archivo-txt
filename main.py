@@ -25,7 +25,7 @@ with col1:
     st.markdown("ChatGPT no puede resumir textos largos. Ahora puedes hacerlo con esta aplicación")
 
 with col2:
-    st.write("Contacta conmigo [Dimoni](https://autmatix.es) para construir tus proyectos de IA personalizados.")
+    st.write("Contacta conmigo [aquí](https://autmatix.es) para construir tus proyectos de IA personalizados.")
 
 
 #Input OpenAI API Key
