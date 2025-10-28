@@ -14,8 +14,8 @@ def load_LLM(openai_api_key):
 
 
 #Page title and header
-st.set_page_config(page_title="AI Long Text Summarizer")
-st.header("AI Long Text Summarizer")
+st.set_page_config(page_title="Resumir archivos de texto con IA")
+st.header("Resume tus archivos con IA")
 
 
 #Intro: instructions
